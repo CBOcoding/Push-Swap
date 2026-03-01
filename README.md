@@ -3,6 +3,14 @@ As part of the 42 School curriculum i wrote this highly efficient sorting algori
 
 The goal is to sort a stack of integers using a limited set of operations and the minimum number of moves.
 
+---
+
+## Visual Representation
+
+Visualizing the "dancing stacks" is the best way to understand how the algorithm works. 
+
+Here the video of the sorting: [Push_swap Sorting Video](https://www.youtube.com/watch?v=n-B5SbzzJtQ)
+
 ## What the Programme Does
 
 The `push_swap` program calculates and displays the smallest sequence of instructions to sort a list of integers. It uses two stacks, **Stack A** and **Stack B**, and a specific set of operations:
@@ -66,12 +74,6 @@ These commands run the program through the `checker_Mac` or `checker_linux` 10 t
 - **Check 500 numbers**: `make 500check`
 
 ---
-
-## Visual Representation
-
-Visualizing the "dancing stacks" is the best way to understand how the algorithm works. 
-
-Here the video of the sorting: [Push_swap Sorting Video](https://www.youtube.com/watch?v=n-B5SbzzJtQ)
 
 ### Online / Web Visualizers
 Here I am listing one of the many web-based visualizers that helps to visualise the algorithm in action, by simply copying the output of the program and the initial numbers.
